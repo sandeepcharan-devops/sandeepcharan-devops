@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sandeep 👋
 
-<!--
-**sandeepcharan-devops/sandeepcharan-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-Here are some ideas to get you started:
+I build, deploy, and automate cloud infrastructure and containerized applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [sandeepcharan-devops.github.io](https://sandeepcharan-devops.github.io/)
+
+## 🛠️ Technologies
+
+- **Cloud:** AWS
+- **Containers:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform
+- **CI/CD & GitOps:** Jenkins, Argo CD, Helm
+- **Monitoring:** Prometheus, Grafana
+- **Security:** Trivy
+- **Operating Systems:** Linux
+
+## 🚀 Featured Projects
+
+### 🧦 Sock Shop — Kubernetes & GitOps
+Infrastructure provisioning, Kubernetes deployment, Helm, and GitOps workflows.
+
+Repository: [sockshop-gitops](https://github.com/sandeepcharan-devops/sockshop-gitops)
+
+### 🏗️ Terraform Sock Shop
+Infrastructure as Code for cloud infrastructure.
+
+Repository: [terraform-sockshop](https://github.com/sandeepcharan-devops/terraform-sockshop)
+
+### 🎬 BookMyShow DevOps
+Containerization and deployment automation for a movie ticket booking application.
+
+Repository: [BookMyShow-devops](https://github.com/sandeepcharan-devops/BookMyShow-devops)
+
+## 🎯 Current Focus
+
+- Building reliable cloud infrastructure
+- Improving CI/CD automation and GitOps workflows
+- Practicing Kubernetes troubleshooting and monitoring
+
+## 🔗 Find Me Online
+
+- [Portfolio Website](https://sandeepcharan-devops.github.io/)
+- [GitHub Repositories](https://github.com/sandeepcharan-devops?tab=repositories)
+
+---
+
+*Build. Automate. Deploy. Improve.*
