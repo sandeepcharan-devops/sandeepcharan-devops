@@ -125,22 +125,26 @@ A Helm chart project for packaging and deploying applications on Kubernetes.
 - 📈 Developing monitoring and observability skills
 - 🔐 Learning practical DevSecOps techniques
 
-## 📫 CONTACT
+
+## 📫 CONTACT ME
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:sandeepcharanvipparla@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep">
 </a>
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/sandeep-charan-vipparlapparla">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
 </a>
+
+<br><br>
+
+📧 **Email:** sandeepcharanvipparla@gmail.com
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sandeep-charan-vipparlapparla)
 
 </div>
 
----
-
-<div align="center">
 
 **BUILD • AUTOMATE • DEPLOY • IMPROVE**
 
