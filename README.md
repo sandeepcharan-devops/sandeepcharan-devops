@@ -130,13 +130,6 @@ A Helm chart project for packaging and deploying applications on Kubernetes.
 
 <div align="center">
 
-<a href="mailto:sandeepcharanvipparla@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep">
-</a>
-<a href="https://www.linkedin.com/in/sandeep-charan-vipparlapparla">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-</a>
-
 <br><br>
 
 📧 **Email:** sandeepcharanvipparla@gmail.com
